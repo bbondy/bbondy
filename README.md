@@ -61,11 +61,11 @@ Outside work, I spend time with family and run long distances.
 - [Other](https://www.brianbondy.com/projects): Hundreds of other libraries, applications and custom software jobs ...
 
 ## Contact
-- [Email](mailto:bbondy@gmail.com)
-- [Twitter](https://twitter.com/brianbondy)
-- [Blog](https://brianbondy.com/all)
-- [LinkedIn](https://www.linkedin.com/in/bbondy)
-- [Strava](https://www.strava.com/athletes/bbondy)
-- [Instagram](https://www.instagram.com/brianbondy/)
-- [Stack Overflow](https://stackoverflow.com/users/3153/brian-r-bondy)
-- [Keybase](https://keybase.io/bbondy)
+- 📧 [Email](mailto:bbondy@gmail.com)
+- 🐦 [Twitter](https://twitter.com/brianbondy)
+- ✍️ [Blog](https://brianbondy.com/all)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bbondy)
+- 🏃 [Strava](https://www.strava.com/athletes/bbondy)
+- 📸 [Instagram](https://www.instagram.com/brianbondy/)
+- 💡 [Stack Overflow](https://stackoverflow.com/users/3153/brian-r-bondy)
+- 🔐 [Keybase](https://keybase.io/bbondy)
