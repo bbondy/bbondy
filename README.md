@@ -1,6 +1,8 @@
 ## About
 I am a software developer focused on systems and product engineering across C++, Rust, Go, Python, C#, and JavaScript.
 I co-founded Brave in 2015 with Brendan Eich and currently serve as CTO and board member.
+Before Brave, I worked at Khan Academy, Mozilla, and Evernote.
+I graduated with a bachelor's degree in Computer Science Honors from the University of Waterloo.
 
 Outside work, I spend time with family and run long distances.
 
