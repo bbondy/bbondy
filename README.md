@@ -1,20 +1,8 @@
-<p align="center">
-  <a href="https://www.brianbondy.com">Website</a> |
-  <a href="https://github.com/bbondy">GitHub</a> |
-  <a href="https://x.com/brianbondy">X</a> |
-  <a href="https://www.linkedin.com/in/brianbondy">LinkedIn</a>
-</p>
-
 ## About
 I am a software developer focused on systems and product engineering across C++, Rust, Go, Python, C#, and JavaScript.
 I co-founded Brave in 2015 with Brendan Eich and currently serve as CTO and board member.
 
-Outside work, I spend time with family and run long distances, often while listening to audiobooks.
-
-## Current Focus
-- Privacy-preserving browser and AI features at Brave
-- Developer tooling (Rust + CLI)
-- Endurance training and backyard ultra prep
+Outside work, I spend time with family and run long distances.
 
 ## Selected Projects
 - [Brave macOS, Windows, and Linux browser](https://github.com/brave/brave-core): Block ads and trackers, saves data, and speeds up web browsing.
