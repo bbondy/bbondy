@@ -4,7 +4,7 @@ I co-founded Brave in 2015 with Brendan Eich and currently serve as CTO and boar
 Before Brave, I worked at Khan Academy, Mozilla, Evernote, and more.
 I graduated with a bachelor's degree in Computer Science Honors from the University of Waterloo.
 
-Outside work, I spend time with family and run long distances.
+Outside work, I spend time with family and run long distances 🏃.
 
 ## Projects
 
