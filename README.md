@@ -6,72 +6,92 @@ I graduated with a bachelor's degree in Computer Science Honors from the Univers
 
 Outside work, I spend time with family and run long distances.
 
-## Selected Projects
-- [Brave macOS, Windows, and Linux browser](https://github.com/brave/brave-core): Block ads and trackers, saves data, and speeds up web browsing.
-- [Brave Wallet](https://github.com/brave/brave-core): Secure, native, built-in crypto wallet that supercharges Brave brow...
-- [Brave Leo](https://github.com/brave/brave-core): AI-powered assistant built into the Brave browser, offering feature...
-- [Brave Origin](https://github.com/brave/brave-core): A streamlined Brave that keeps best-in-class privacy while letting you manage or remove the features you do not want.
-- [Brave Bot](https://github.com/brave-experiments/brave-bot): General-purpose coding agent with structural resistance to indirect prompt injection.
-- [Brave Dev Bot](https://github.com/brave-experiments/brave-dev-bot): Ralph Wiggum loop-inspired coding agent for Brave projects that implements PRDs, runs tests, creates PRs, and manages CI.
-- [Guardrails](https://github.com/bbondy/guardrails): Native Rust CLI wrapper that blocks unsafe or prompt-injection styl...
-- [Hutter Prize Workspace](https://github.com/bbondy/hutter): Rust workspace for experimenting toward a future Hutter Prize submission.
-- [Macro Lap](https://github.com/bbondy/macro-lap): Macro Lap lets you track a larger macro lap without losing the norm...
-- [IPFS in Brave](https://github.com/brave/brave-core): Deep integration of InterPlanetary File System (IPFS) support in Br...
-- [Link Bubble Browser](https://github.com/brave/link-bubble): Link Bubble makes the Android mobile web more efficient
-- [brianbondy.com](https://github.com/bbondy/go-brianbondy): The current website for brianbondy.com
-- [Brave Ad Block Engine (C++)](https://github.com/brave/adblock-rust): Adblock Plus filter parsing and matching for lists like EasyList
-- [Babel JSM module formatter](https://github.com/bbondy/babel-jsm-plugin): Babel plugin for converting ES6 modules into JavaScript code module...
-- [Simple AWS EC2 wrapper library](https://github.com/bbondy/simple-ec2): Simple AWS SDK wrapper library for starting, stopping, listing, and...
-- [Khan Academy app for FirefoxOS](https://github.com/bbondy/khan-academy-fxos): Lead and primary developer for the Khan Academy app for Firefox OS
-- [Code Firefox](https://github.com/bbondy/codefirefox): Becoming a Mozilla contributor can be intimidating
-- [go-update](https://github.com/brave/go-update): Brave component update server written in Go and designed as a Chrom...
-- [JS abstract syntax tree grader](https://github.com/bbondy/codecheckjs): Check JavaScript code structure against a set of goals in JavaScript
-- [Khan Academy app for Windows 8](https://github.com/Khan/khan-windows): Contributed a significant amount of contributions to the Khan Acade...
-- [Gecko / Firefox](https://github.com/mozilla/gecko-dev): I started contributing to Firefox around when I started full time i...
-- [Image Flow](https://github.com/bbondy/image-flow): An image manipulation library that supports opening/obtaining info ...
-- [Stego Flow](https://github.com/bbondy/stego-flow): Utilities and a library to encode data into an image and later deco...
-- [ROBOBAK](https://www.brianbondy.com/projects): Enterprise level Windows backup software made in C++ which offers r...
-- [Vision Backup](https://www.brianbondy.com/projects): Micro business backup of any hard drive, network computer, or FTP/F...
-- [Cryptex](https://www.brianbondy.com/projects): Cryptex was designed to keep your data safe by creating an encrypte...
-- [Null FTP](https://www.brianbondy.com/projects): FTP, FTPS (FTP over SSL), SFTP (FTP over SSH), HTTP, WebDAV server ...
-- [GlobalDrive](https://www.brianbondy.com/projects): Worked on project via contract work
-- [Microsentry](https://www.brianbondy.com/projects): Worked on project via contract work
-- [Auction Tool for eBay](https://www.brianbondy.com/projects): Worked on project via contract work
-- [BidGuru for eBay](https://www.brianbondy.com/projects): Worked on project via contract work
-- [NullShare](https://www.brianbondy.com/projects): NullShare is an open source C++ file sharing application
-- [NullShare Convert](https://www.brianbondy.com/projects): NullShare Convert is an application for converting video file types
-- [Internet Library](https://www.brianbondy.com/projects): Large library built from scratch using C++ that supports FTP, FTPS ...
-- [TDI Network Filters](https://www.brianbondy.com/projects): SMTP and POP3 low level network TDI filters
-- [Virtual disk drive implementation](https://www.brianbondy.com/projects): Disk drive that windows can communicate with
-- [Windows Networking (LAN)](https://www.brianbondy.com/projects): Supports functions for easily working with the windows LAN includin...
-- [True 3D Tetris](https://www.brianbondy.com/projects): Fully customizable Tetris game along the x, y and z axis
-- [Scheduling Library](https://www.brianbondy.com/projects): Easy access and control over all windows schedules
-- [Counter HTTP server](https://www.brianbondy.com/projects): Generates images based on current count for given user
-- [Computer Vision](https://www.brianbondy.com/projects): Several basic utilities related to computer vision and A.I
-- [Pyroflow MSN](https://www.brianbondy.com/projects): An open source implementation of an Msn Messenger client build from...
-- [Pyroflow Archiving](https://www.brianbondy.com/projects): A library to pack and unpack a set of files into a single archive file
-- [Call .NET web services without .NET](https://www.brianbondy.com/projects): Some SOAP wrappers and other misc to easily call .NET web services ...
-- [Adaptive Huffman Compression](https://www.brianbondy.com/projects): Utilities to compress and uncompress data using an adaptive Huffman...
-- [Graphical Pipeline](https://www.brianbondy.com/projects): Created an application to perform Modeling, Viewing and Perspective...
-- [Router Emulator](https://www.brianbondy.com/projects): This program emulates the operations of a router and communicates t...
-- [Reliable transfer protocol](https://www.brianbondy.com/projects): Implemented the Go Back N protocol for reliable transmission and de...
-- [Simple Language Compiler](https://www.brianbondy.com/projects): Implemented a compiler that translated programs, made in a c++ like...
-- [Misc data structures and algorithms](https://www.brianbondy.com/projects): A collection of data structures that I created for my own personal ...
-- [Firefox Extensions](https://www.brianbondy.com/projects): Some experience writting Firefox extensions such as tracking user h...
-- [Qt Extensions](https://www.brianbondy.com/projects): Several reusable Qt widgets.
-- [Pyroflow Briefcase](https://www.brianbondy.com/projects): Briefcase used to synchronize files between 2 mounted directories i...
-- [Pyroflow web site](https://www.brianbondy.com/projects): The entire source code for the .NET, XML/XSLT driven web site
-- [Waterloo Aerial Robotics Group](https://www.brianbondy.com/projects): Fully autonomous flying robots (This project is a group effort and ...
-- [Nachos Operating System](https://www.brianbondy.com/projects): My CS354 Operating systems group project
-- [Various tests](https://www.brianbondy.com/projects): This section holds a variety of tests helpful for getting started o...
-- [Other](https://www.brianbondy.com/projects): Hundreds of other libraries, applications and custom software jobs ...
+## Projects
+
+**Brave**
+- **[Browser](https://github.com/brave/brave-core)** — blocks ads and trackers, saves data, and speeds up web browsing on macOS, Windows, and Linux
+- **[Wallet](https://github.com/brave/brave-core)** — secure, native, built-in crypto wallet that supercharges Brave for Web3
+- **[Leo](https://github.com/brave/brave-core)** — AI assistant built into the browser for question answering and summarization, all while maintaining privacy
+- **[Origin](https://github.com/brave/brave-core)** — a streamlined Brave that keeps best-in-class privacy while letting you manage or remove the features you do not want
+- **[Ad Block Engine](https://github.com/brave/adblock-rust)** — Adblock Plus filter parsing and matching for lists like EasyList, significantly faster than other implementations
+- **[go-update](https://github.com/brave/go-update)** — Chromium-compatible component update server in Go, built by sniffing Chromium's extension update API
+- **[IPFS in Brave](https://github.com/brave/brave-core)** — deep IPFS integration so content loads by hash (CID) through a local node or public gateway
+- **[Link Bubble](https://github.com/brave/link-bubble)** — Android browser that loads links in the background and floats them in a bubble, so you never leave the app you are in
+
+**Agents and developer tooling**
+- **[Brave Bot](https://github.com/brave-experiments/brave-bot)** — general-purpose coding agent with structural resistance to indirect prompt injection
+- **[Brave Dev Bot](https://github.com/brave-experiments/brave-dev-bot)** — Ralph Wiggum loop-inspired agent that implements PRDs, runs tests, creates PRs, and manages CI
+- **[Guardrails](https://github.com/bbondy/guardrails)** — native Rust CLI wrapper that blocks unsafe or prompt-injection style output from other CLIs, with blocking and sanitizing modes
+- **[Hutter Prize Workspace](https://github.com/bbondy/hutter)** — Rust workspace for experimenting toward a future Hutter Prize submission
+
+**Mozilla and Khan Academy**
+- **[Gecko / Firefox](https://github.com/mozilla/gecko-dev)** — mostly Windows C++ work since 2011: Metro Firefox, the installer, silent updates, and hundreds of fixes
+- **[Khan Academy for Firefox OS](https://github.com/bbondy/khan-academy-fxos)** — lead and primary developer of the app for Khan Academy's 6,000+ videos and articles
+- **[Khan Academy for Windows 8](https://github.com/Khan/khan-windows)** — significant contributor to the Modern UI Windows Store app
+- **[Code Firefox](https://github.com/bbondy/codefirefox)** — short, consumable videos outlining how to become a Mozilla contributor, from start to finish
+
+**Personal projects**
+- **[Macro Lap](https://github.com/bbondy/macro-lap)** — double-tap the lap button to track a macro lap while single taps still record normal splits, built for backyard ultras
+- **[brianbondy.com](https://github.com/bbondy/go-brianbondy)** — my site, currently written in Go, after versions in Node, App Engine, Django, ASP.NET, and Flash
+- **[Babel JSM module formatter](https://github.com/bbondy/babel-jsm-plugin)** — Babel plugin that converts ES6 modules into Firefox JavaScript code modules (JSM)
+- **[codecheckjs](https://github.com/bbondy/codecheckjs)** — grades JavaScript structure by matching a template against an abstract syntax tree
+- **[simple-ec2](https://github.com/bbondy/simple-ec2)** — small AWS SDK wrapper for starting, stopping, listing, and running commands on EC2 instances
+- **[Image Flow](https://github.com/bbondy/image-flow)** — image manipulation library covering many formats, with layers and blend modes
+- **[Stego Flow](https://github.com/bbondy/stego-flow)** — library and utilities to encode data into an image and decode it later
+
+<details>
+<summary><b>Earlier work</b> — products, contract work, and libraries from before 2011</summary>
+
+**Products** (acquired in 2011)
+- **ROBOBAK** — enterprise Windows backup in C++ for remote office branch office backup, with deduplication, agentless backup, and replication
+- **Vision Backup** — micro business backup of any drive, network computer, or FTP site to disk, FTP, optical media, or tape, with SQL Server and Exchange plugins
+- **Cryptex** — encrypted vault that mounts as a drive, grows with your files, and disappears from view when locked
+- **Null FTP** — FTP, FTPS, SFTP, HTTP, and WebDAV client and server software; I still use it as my primary FTP client
+
+**Contract work**
+- **GlobalDrive** — Windows drive backed by WebDAV, both the C++ client and the C# ASP.NET web side
+- **Microsentry** — certified email service built on a Windows TDI filter, certifying sender identity on both ends
+- **Auction Tool for eBay** — visible auction counters and tracking through the eBay API, like Google Analytics for listings
+- **BidGuru for eBay** — sniping tool that bids on an item just before it expires
+
+**Libraries and systems**
+- **Internet Library** — large C++ library supporting FTP/FTPS/SFTP, SMTP, POP3, HTTP(S), TCP/UDP, servers, proxies, and HTML parsing; the basis of several large applications
+- **TDI Network Filters** — low level SMTP and POP3 filters that can modify, block, or add to network traffic
+- **Virtual disk drive implementation** — a drive Windows can talk to whose data does not actually exist
+- **Windows Networking (LAN)** — file search, connections, and administrative share access, treating FTP servers as LAN computers
+- **Scheduling Library** — access and control over Windows schedules, used in several large applications
+- **Pyroflow Archiving** — cross-platform pack and unpack into a single archive, more efficient than tar; the core of Vision Backup Enterprise
+- **Adaptive Huffman Compression** — compression utilities using adaptive Huffman coding, grown well past the original school project
+- **Call .NET web services without .NET** — SOAP wrappers for calling .NET web services from any C++ application
+- **Counter HTTP server** — serves generated count images over HTTP
+- **Computer Vision** — basic computer vision and AI utilities built on Video4Linux and Video4Windows
+- **Misc data structures and algorithms** — a collection I built for my own use
+
+**Pyroflow and open source**
+- **NullShare** — open source C++ file sharing application, shelved over the legal climate of the time
+- **NullShare Convert** — GUI and preview front end over ffmpeg for converting video formats
+- **Pyroflow MSN** — MSN Messenger client written from scratch in C++ and Qt3, portable across Linux, Unix, Mac, Windows, and BSD
+- **Pyroflow Briefcase** — synchronizes files between two mounted directories on Linux and Unix
+- **Pyroflow web site** — the full .NET, XML/XSLT driven site plus a remote updater app
+- **True 3D Tetris** — Tetris across the x, y, and z axes with customizable blocks, board size, and particle explosions
+- **Qt Extensions** — several reusable Qt widgets
+- **Firefox Extensions** — extensions such as user habit tracking
+
+**University**
+- **Graphical Pipeline** — modeling, viewing, and perspective transforms with clipping and a resizable viewport, in Python and C++
+- **Router Emulator** — OSPF-style router emulation with Dijkstra's algorithm over UDP in C++
+- **Reliable transfer protocol** — Go-Back-N reliable delivery on top of UDP, tested over a congested network
+- **Simple Language Compiler** — compiles a C++-like language to MIPS assembly using CFG-based bottom up parsing
+- **Nachos Operating System** — CS354 operating systems group project
+- **Waterloo Aerial Robotics Group** — fully autonomous flying robots, as part of a group effort
+
+**Also**
+- **Various tests** — small projects for getting started on something new quickly
+- **Other** — hundreds of other libraries, applications, and custom software jobs
+
+Full descriptions live at [brianbondy.com/projects](https://www.brianbondy.com/projects).
+
+</details>
 
 ## Contact
-- 📧 [Email](mailto:bbondy@gmail.com)
-- 🐦 [Twitter](https://twitter.com/brianbondy)
-- ✍️ [Blog](https://brianbondy.com/all)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bbondy)
-- 🏃 [Strava](https://www.strava.com/athletes/bbondy)
-- 📸 [Instagram](https://www.instagram.com/brianbondy/)
-- 💡 [Stack Overflow](https://stackoverflow.com/users/3153/brian-r-bondy)
-- 🔐 [Keybase](https://keybase.io/bbondy)
+📧 [Email](mailto:bbondy@gmail.com) · 🐦 [Twitter](https://twitter.com/brianbondy) · ✍️ [Blog](https://brianbondy.com/all) · 💼 [LinkedIn](https://www.linkedin.com/in/bbondy) · 🏃 [Strava](https://www.strava.com/athletes/bbondy) · 📸 [Instagram](https://www.instagram.com/brianbondy/) · 💡 [Stack Overflow](https://stackoverflow.com/users/3153/brian-r-bondy) · 🔐 [Keybase](https://keybase.io/bbondy)
