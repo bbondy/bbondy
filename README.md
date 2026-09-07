@@ -77,7 +77,7 @@ Outside work, I spend time with family and run long distances.
 - **Qt Extensions** — several reusable Qt widgets
 - **Firefox Extensions** — extensions such as user habit tracking
 
-**University**
+**University** (University of Waterloo)
 - **Graphical Pipeline** — modeling, viewing, and perspective transforms with clipping and a resizable viewport, in Python and C++
 - **Router Emulator** — OSPF-style router emulation with Dijkstra's algorithm over UDP in C++
 - **Reliable transfer protocol** — Go-Back-N reliable delivery on top of UDP, tested over a congested network
