@@ -20,7 +20,7 @@ Outside work, I spend time with family and run long distances 🏃.
 
 **Agents and developer tooling**
 - **[Brave Bot](https://github.com/brave-experiments/brave-bot)** — general-purpose coding agent with structural resistance to indirect prompt injection
-- **[Brave Dev Bot](https://github.com/brave-experiments/brave-dev-bot)** — Ralph Wiggum loop-inspired agent that implements PRDs, runs tests, creates PRs, and manages CI
+- **[Brave Dev Loop](https://github.com/brave-experiments/brave-dev-loop)** — Ralph Wiggum loop-inspired agent that implements PRDs, runs tests, creates PRs, and manages CI
 - **[Guardrails](https://github.com/bbondy/guardrails)** — native Rust CLI wrapper that blocks unsafe or prompt-injection style output from other CLIs, with blocking and sanitizing modes
 - **[Hutter Prize Workspace](https://github.com/bbondy/hutter)** — Rust workspace for experimenting toward a future Hutter Prize submission
 
